@@ -1,4 +1,6 @@
-Example Voting App 2.0
+[![Build Status](http://34.94.37.22:8080/buildStatus/icon?job=instavote%2Fworker-build)](http://34.94.37.22:8080/job/instavote/job/worker-build/)
+
+Example Voting App
 =========
 
 Getting started
